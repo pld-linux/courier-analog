@@ -7,10 +7,10 @@ License:	GPL
 Group:		Applications/System
 Source0:	http://dl.sourceforge.net/courier/%{name}-%{version}.tar.bz2
 # Source0-md5:	020ad544f55de811b7f1eca40343f9d2
-URL:		http://www.courier-mta.org
-BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+URL:		http://www.courier-mta.org/
 BuildRequires:	perl
 BuildArch:	noarch
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 The courier-analog script generates log summaries for the Courier mail
