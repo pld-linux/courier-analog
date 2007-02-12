@@ -1,5 +1,5 @@
 Summary:	Courier log analyzer
-Summary(pl):	Analizator logów couriera
+Summary(pl.UTF-8):   Analizator logÃ³w couriera
 Name:		courier-analog
 Version:	0.12
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The courier-analog script generates log summaries for the Courier mail
 server.
 
-%description -l pl
-Courier-analog to skrypt, który generuje podsumowanie logów dla
+%description -l pl.UTF-8
+Courier-analog to skrypt, ktÃ³ry generuje podsumowanie logÃ³w dla
 couriera.
 
 %prep
