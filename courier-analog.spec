@@ -1,5 +1,5 @@
 Summary:	Courier log analyzer
-Summary(pl.UTF-8):   Analizator logów couriera
+Summary(pl.UTF-8):	Analizator logów couriera
 Name:		courier-analog
 Version:	0.12
 Release:	1
