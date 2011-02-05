@@ -1,14 +1,15 @@
+%include	/usr/lib/rpm/macros.perl
 Summary:	Courier log analyzer
 Summary(pl.UTF-8):	Analizator logów couriera
 Name:		courier-analog
-Version:	0.15
+Version:	0.16
 Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://dl.sourceforge.net/courier/%{name}-%{version}.tar.bz2
-# Source0-md5:	ea539760b81362c581a78116acfef50b
+# Source0-md5:	783e48a7ffb11d4fdb1049f6d3c9e557
 URL:		http://www.courier-mta.org/
-BuildRequires:	perl
+BuildRequires:	rpm-perlprov
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
