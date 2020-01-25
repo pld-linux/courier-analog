@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Courier log analyzer
 Summary(pl.UTF-8):	Analizator logów couriera
 Name:		courier-analog
