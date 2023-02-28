@@ -1,12 +1,12 @@
 Summary:	Courier log analyzer
 Summary(pl.UTF-8):	Analizator logów couriera
 Name:		courier-analog
-Version:	0.19
+Version:	0.22
 Release:	1
 License:	GPL v3 with OpenSSL exception
 Group:		Applications/System
 Source0:	https://downloads.sourceforge.net/courier/%{name}-%{version}.tar.bz2
-# Source0-md5:	f9aec9cd93ced1dcb332e8b2973b1662
+# Source0-md5:	f1cd26260e2901c9c1c6f958103b8471
 URL:		http://www.courier-mta.org/
 BuildRequires:	rpm-perlprov
 BuildRequires:	rpmbuild(macros) >= 1.745
